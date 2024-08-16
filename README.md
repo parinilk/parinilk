@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/parinilkala"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:kalaparinil@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-AWS%20Certified-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <a href="https://www.credly.com/badges/b5b645a7-a3d0-4327-b7dc-60b945b266e3/public_url"><img src="https://img.shields.io/badge/-AWS%20Certified-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </p>
 
 ---
