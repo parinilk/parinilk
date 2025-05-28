@@ -55,19 +55,7 @@ This certification validates my comprehensive understanding of AWS Cloud concept
 This advanced certification demonstrates my ability to design and deploy scalable, highly available, and fault-tolerant systems on AWS, crucial for building robust AI infrastructures.
 </details>
 
-## 🔭 Highlighted Projects
 
-### 1. ChatBot Recommendation Music System
-An intelligent music recommendation system powered by IBM Watson's NLP capabilities.
-
-### 2. Garbage Classification Identifier
-A multi-platform solution utilizing advanced CNN models for accurate waste classification.
-
-### 3. Fretboard To Strings: Real-Time Guitar Song Recognition
-An innovative system leveraging computer vision for real-time guitar playing analysis.
-
-### 4. Traffic Violation Detection System
-A Tkinter-based application employing YOLOv5 for efficient traffic monitoring and violation detection.
 
 ## 🌱 Continuous Learning
 
