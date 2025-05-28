@@ -1,7 +1,7 @@
 <h1 align="center">Parinil Kala</h1>
 
 <p align="center">
-  <em>AI Engineer | B.Tech Student | AWS Certified Professional</em>
+  <em>AI Enthusisast | B.Tech Student | AWS Certified Professional</em>
 </p>
 
 <p align="center">
