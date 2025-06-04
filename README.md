@@ -2,7 +2,7 @@
 
 # 🚀 Parinil Kala
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Specialist;Full-Stack+Developer;Cloud+Solutions+Architect;Automation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Specialist;Full-Stack+Developer;Cloud+Solutions+Enthusiast;Automation" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎯_Focus-Artificial_Intelligence-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
