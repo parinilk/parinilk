@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Parinil Kala
+#  Parinil Kala
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Specialist;Full-Stack+Developer;Cloud+Solutions+Enthusiast;Automation" alt="Typing SVG" />
 
