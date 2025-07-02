@@ -47,6 +47,22 @@ I'm an **AI enthusiast** with hands-on experience in developing and optimizing A
 
 ## 💼 **Professional Experience**
 
+### 🏢 **Devot AI** | *Python Developer Intern* | `Jun 2025 - Present`
+*Remote, Kanpur, Uttar Pradesh, India*
+
+**🔧 Key Responsibilities:**
+- Developing and fine-tuning **foundational AI models** tailored to client specifications across diverse technology domains
+- Implementing custom **training pipelines** and model architectures for full-stack development, backend systems, and enterprise solutions
+- Building **end-to-end solutions** spanning frontend user interfaces, backend APIs, and database optimization
+- Architecting responsive, **data-driven applications** that streamline property management workflows using modern development frameworks
+- Contributing to **Oculus** - a comprehensive real estate management platform
+- Ensuring optimal **performance and scalability** in AI model deployment
+- Working with modern development frameworks to build responsive applications
+- System integration and workflow optimization
+
+### 🏢 **Product Manager Accelerator** | *AI Engineer Intern* | `Jun 2025 - Present`
+*Remote, Boston, Massachusetts, United States*
+
 ### 🏢 **Radical AI** | *AI Engineer Intern* | `Jun 2024 - Oct 2024`
 *Remote, New York, United States*
 
