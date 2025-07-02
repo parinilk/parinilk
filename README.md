@@ -47,10 +47,6 @@ I'm an **AI enthusiast** with hands-on experience in developing and optimizing A
 
 ## 💼 **Professional Experience**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_Current_Role-AI_Engineer_Intern-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
-</div>
-
 ### 🏢 **Radical AI** | *AI Engineer Intern* | `Jun 2024 - Oct 2024`
 *Remote, New York, United States*
 
