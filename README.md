@@ -328,8 +328,6 @@ I'm an **AI enthusiast** with hands-on experience in developing and optimizing A
 
 <div align="center">
 
-### 🚀 *"Bridging the gap between AI innovation and real-world impact"*
-
 <img src="https://komarev.com/ghpvc/?username=parinilk&color=00D4FF&style=for-the-badge&label=Profile+Views" />
 
 <br>
