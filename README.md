@@ -314,10 +314,6 @@ I'm an **AI enthusiast** with hands-on experience in developing and optimizing A
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="tel:+919528598078">
-  <img src="https://img.shields.io/badge/📱_Phone-+91--9528598078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
 <a href="https://github.com/parinilk">
   <img src="https://img.shields.io/badge/💻_GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
