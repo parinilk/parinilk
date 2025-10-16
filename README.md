@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎯_Focus-Artificial_Intelligence-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎓_Status-Graduated-00D4FF?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/☁️_Cloud-AWS_Certified-FF9500?style=for-the-badge&labelColor=1a1a1a" />
 </div>
 
