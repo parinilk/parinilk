@@ -334,6 +334,6 @@ I'm an **AI enthusiast** with hands-on experience in developing and optimizing A
 
 <br>
 
-**⭐️ From [parinilk](https://github.com/parinilk) - Building the future with AI, one algorithm at a time**
+**⭐️ From [parinilk](https://github.com/parinilk) **
 
 </div>
