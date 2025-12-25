@@ -296,8 +296,6 @@
   <img src="https://img.shields.io/badge/💻_GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Phone:** +91-9528594078
-
 </div>
 
 ---
